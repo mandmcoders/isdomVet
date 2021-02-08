@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c719d0c2-e2aa-4610-bea7-48a511e8fe0f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kqIdSBXrux6bXrNjqKzhdWE6bF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\isdomVet" />
+      <recent name="C:\wamp64\www\isdomVet\admin" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c719d0c2-e2aa-4610-bea7-48a511e8fe0f" name="Default Changelist" comment="" />
+      <created>1606421781601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606421781601</updated>
+      <workItem from="1606421782670" duration="7295000" />
+      <workItem from="1606434887487" duration="13000" />
+      <workItem from="1607021729834" duration="1237000" />
+      <workItem from="1607026682124" duration="8565000" />
+      <workItem from="1607206731024" duration="737000" />
+      <workItem from="1607631012530" duration="7830000" />
+      <workItem from="1607681026774" duration="3000" />
+      <workItem from="1607989748478" duration="65000" />
+      <workItem from="1608231308035" duration="2265000" />
+      <workItem from="1608236461966" duration="8249000" />
+      <workItem from="1609974513329" duration="2448000" />
+      <workItem from="1610031835671" duration="2523000" />
+      <workItem from="1610051679598" duration="3760000" />
+      <workItem from="1610358197726" duration="49000" />
+      <workItem from="1611239588060" duration="10084000" />
+      <workItem from="1611261356865" duration="5557000" />
+      <workItem from="1611839001184" duration="19000" />
+      <workItem from="1611839055363" duration="1775000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
